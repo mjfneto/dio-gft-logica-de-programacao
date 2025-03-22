@@ -19,7 +19,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |                                                        Introdução aos Conceitos Básicos em Lógica de Programação                                                        |     ✅     |
 |                        [Entendendo Algoritmos e Fluxogramas](/resumos/introducao-a-logica-de-programacao/entendendo-algoritmos-e-fluxogramas.md)                        |     ✅     |
 | [Estrutura de um Software e Seu Ambiente de Desenvolvimento](/resumos/introducao-a-logica-de-programacao/estrutura-de-um-software-e-seu-ambiente-de-desenvolvimento.md) |     ✅     |
-|                                  [Trabalhando com Variáveis](/resumos/introducao-a-logica-de-programacao/trabalhando-com-variaveis.md)                                  |            |
+|                                  [Trabalhando com Variáveis](/resumos/introducao-a-logica-de-programacao/trabalhando-com-variaveis.md)                                  |     ✅     |
 |                                                                Criando e Manipulando Vetores e Matrizes                                                                 |            |
 
 ## Explorando Operadores
