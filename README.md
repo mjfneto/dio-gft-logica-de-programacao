@@ -14,13 +14,13 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 
 ## Introdução à Lógica de Programação
 
-|                                                          Tópico                                                           | Concluído? |
-| :-----------------------------------------------------------------------------------------------------------------------: | :--------: |
-|                                 Introdução aos Conceitos Básicos em Lógica de Programação                                 |     ✅     |
-| [Entendendo Algoritmos e Fluxogramas](/resumos/introducao-a-logica-de-programacao/entendendo-algoritmos-e-fluxogramas.md) |     ✅     |
-|                                Estrutura de um Software e Seu Ambiente de Desenvolvimento                                 |            |
-|                                                 Trabalhando com Variáveis                                                 |            |
-|                                         Criando e Manipulando Vetores e Matrizes                                          |            |
+|                                                                                 Tópico                                                                                  | Concluído? |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+|                                                        Introdução aos Conceitos Básicos em Lógica de Programação                                                        |     ✅     |
+|                        [Entendendo Algoritmos e Fluxogramas](/resumos/introducao-a-logica-de-programacao/entendendo-algoritmos-e-fluxogramas.md)                        |     ✅     |
+| [Estrutura de um Software e Seu Ambiente de Desenvolvimento](/resumos/introducao-a-logica-de-programacao/estrutura-de-um-software-e-seu-ambiente-de-desenvolvimento.md) |            |
+|                                                                        Trabalhando com Variáveis                                                                        |            |
+|                                                                Criando e Manipulando Vetores e Matrizes                                                                 |            |
 
 ## Explorando Operadores
 
