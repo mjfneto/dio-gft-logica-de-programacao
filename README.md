@@ -32,7 +32,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |                                                Trabalhando Com Operadores de Comparação                                                |     ✅     |
 |                                                   Trabalhando Com Operadores Lógicos                                                   |     ✅     |
 |                                  Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional                                  |     ✅     |
-|                                                  Desafio de Código: Jornada do Herói                                                   |            |
+|                                                  Desafio de Código: Jornada do Herói                                                   |     ✅     |
 
 ## Dominando Estruturas de Controle
 
