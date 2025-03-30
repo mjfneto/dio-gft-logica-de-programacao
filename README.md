@@ -38,7 +38,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 
 |                    Tópico                    | Concluído? |
 | :------------------------------------------: | :--------: |
-|     Introdução às Estruturas de Controle     |            |
+|     Introdução às Estruturas de Controle     |     ✅     |
 |   Trabalhando Com Estruturas Condicionais    |            |
 |    Trabalhando Com Estruturas de Decisão     |            |
 |   Trabalhando Com Estruturas de Repetição    |            |
