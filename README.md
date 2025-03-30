@@ -28,7 +28,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 | :------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
 | [Introdução ao Mundo de Operadores De Programação](/resumos/explorando-operadores/introducao-ao-mundo-de-operadores-de-programacao.md) |     ✅     |
 |                                                   Entendendo Operadores e Expressões                                                   |     ✅     |
-|                                                 Trabalhando Com Operadores Aritméticos                                                 |            |
+|                                                 Trabalhando Com Operadores Aritméticos                                                 |     ✅     |
 |                                                Trabalhando Com Operadores de Comparação                                                |            |
 |                                                   Trabalhando Com Operadores Lógicos                                                   |            |
 |                                  Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional                                  |            |
