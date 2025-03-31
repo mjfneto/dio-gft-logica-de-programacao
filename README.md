@@ -54,7 +54,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |             Funções com Parâmetros              |     ✅     |
 |               Funções com Retorno               |     ✅     |
 | Lab Project: Calculadora de Partidas Rankeadas  |     ✅     |
-| Desafio de Código: Capturando Pokémons Iniciais |            |
+| Desafio de Código: Capturando Pokémons Iniciais |     ✅     |
 
 ## Estruturas de Dados e Objetos
 
