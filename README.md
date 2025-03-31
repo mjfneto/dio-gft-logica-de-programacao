@@ -53,7 +53,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |         O Que São Funções e Como Criar          |     ✅     |
 |             Funções com Parâmetros              |     ✅     |
 |               Funções com Retorno               |     ✅     |
-| Lab Project: Calculadora de Partidas Rankeadas  |            |
+| Lab Project: Calculadora de Partidas Rankeadas  |     ✅     |
 | Desafio de Código: Capturando Pokémons Iniciais |            |
 
 ## Estruturas de Dados e Objetos
