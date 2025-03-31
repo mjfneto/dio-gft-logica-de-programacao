@@ -52,7 +52,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |         Introdução ao Mundo de Funções          |     ✅     |
 |         O Que São Funções e Como Criar          |     ✅     |
 |             Funções com Parâmetros              |     ✅     |
-|               Funções com Retorno               |            |
+|               Funções com Retorno               |     ✅     |
 | Lab Project: Calculadora de Partidas Rankeadas  |            |
 | Desafio de Código: Capturando Pokémons Iniciais |            |
 
