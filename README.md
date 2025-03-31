@@ -43,7 +43,7 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |    Trabalhando Com Estruturas de Decisão     |     ✅     |
 |   Trabalhando Com Estruturas de Repetição    |     ✅     |
 | Lab Project: Classificador de Nível de Herói |     ✅     |
-|   Desafio de Código: Pontos de Experiência   |            |
+|   Desafio de Código: Pontos de Experiência   |     ✅     |
 
 ## Trabalhando com Funções
 
