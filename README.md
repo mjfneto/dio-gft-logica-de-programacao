@@ -61,6 +61,6 @@ Repositório destinado à centralização de resumos do conteúdo do bootcamp L�
 |              Tópico              | Concluído? |
 | :------------------------------: | :--------: |
 | Introdução Ao Mundo Dos Objetos  |     ✅     |
-|     Estrutura de Dados JSON      |            |
+|     Estrutura de Dados JSON      |     ✅     |
 |   O Que São Classes e Objetos    |            |
 | Escrevendo as Classes de Um Jogo |            |
